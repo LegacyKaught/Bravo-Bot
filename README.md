@@ -1,50 +1,57 @@
-Bravo Discord Bot
+<h1 align="center">
+  <br>
+  <a href="https://github.com/your-github-username"></a>
+  <br>
+  Bravo Discord Bot
+  <br>
+</h1>
+
+<h4 align="center">A versatile Discord bot for all your needs</h4>
+
 <p align="center">
-  <img src="https://i.imgur.com/iN8rN7J.png" alt="Bravo Banner" width="600">
-</p>
-<p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=890989208245028650&permissions=8&scope=bot">
-    <img src="https://img.shields.io/badge/Add%20to%20your%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Add to Discord" />
+  <a href="https://discord.gg/your-discord-server-invite-link">
+    <img src="https://img.shields.io/discord/your-discord-server-id?logo=discord&style=flat-square" alt="Discord Server">
+  </a>
+  <a href="https://github.com/your-github-username/Bravo-discord-bot/releases">
+    <img src="https://img.shields.io/github/v/release/your-github-username/Bravo-discord-bot?include_prereleases&style=flat-square" alt="Release">
+  </a>
+  <a href="https://github.com/your-github-username/Bravo-discord-bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/your-github-username/Bravo-discord-bot?style=flat-square" alt="License">
   </a>
 </p>
-Table of Contents
-Introduction
-Features
-Commands
-Installation
-Contributing
-License
-Introduction
-Bravo is a general-purpose Discord bot designed to make your server more interactive and fun. It has an array of commands that you can use to perform various actions like getting random memes, checking the weather, or setting reminders. Bravo is built using Discord.js, a powerful Node.js module, and other third-party APIs.
 
-Features
-Memes: Get random memes on different topics using the !meme command.
-Weather: Check the weather of any location using the !weather <location> command.
-Reminders: Set reminders using the !remind <time> <message> command.
-Google: Search anything on Google using the !google <search query> command.
-Quote: Get random quotes from famous people using the !quote command.
-GIFs: Get random GIFs using the !gif <search query> command.
-News: Get latest news articles from different sources using the !news <source> command.
-Translate: Translate text to different languages using the !translate <language code> <text> command.
-Jokes: Get random jokes using the !joke command.
-And many more!
-Commands
-Command	Description
-!meme	Get random memes on different topics.
-!weather <location>	Check the weather of any location.
-!remind <time> <message>	Set reminders.
-!google <search query>	Search anything on Google.
-!quote	Get random quotes from famous people.
-!gif <search query>	Get random GIFs.
-!news <source>	Get latest news articles from different sources.
-!translate <language code> <text>	Translate text to different languages.
-!joke	Get random jokes.
-!help	Get help with the bot commands.
-Installation
-To add Bravo to your server, simply click on the "Add to Discord" button at the top of this README. You must have the Administrator permission on your server to add Bravo. Once added, you can use the commands listed in the table above.
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#commands">Commands</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
+</p>
 
-Contributing
-If you want to contribute to Bravo, feel free to fork the repository and submit a pull request. Please read the contributing guidelines before contributing.
+## About
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Bravo Discord Bot is a multipurpose Discord bot that can be used for a variety of tasks. It's perfect for small and large servers alike, with a variety of features and commands to help your community thrive.
+
+## Features
+
+Here are some of the features that Bravo Discord Bot offers:
+
+- **Moderation:** Keep your server safe and clean with a variety of moderation tools, including kick, ban, and mute commands.
+- **Welcome Messages:** Greet new members with custom welcome messages and DMs.
+- **Leveling System:** Keep your members engaged and active with a leveling system that rewards activity.
+- **Music:** Listen to your favorite songs on Discord with Bravo's built-in music player.
+- **Games:** Play games like trivia, hangman, and more with your server members.
+- **And much more:** Bravo Discord Bot is constantly being updated with new features and commands to make your Discord experience even better.
+
+## Installation
+
+To install Bravo Discord Bot, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-github-username/Bravo-discord-bot.git`
+2. Install the required packages: `pip install -r requirements.txt`
+3. Create a new Discord bot and get its token. You can follow [this tutorial](https://discordpy.readthedocs.io/en/latest/discord.html) for more information.
+4. Create a file called `.env` in the root directory of the project and add the following lines:
+
