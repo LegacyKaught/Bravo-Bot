@@ -1,62 +1,63 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-  <img src="https://i.imgur.com/L9lzVz4.png" width="600" alt="Bravo">
+  <a href="https://github.com/LegacyKaught/Bravo-Bot/">
+    <img src="https://i.imgur.com/YnEe7vn.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Bravo Bot</h3>
+
+  <p align="center">
+    A multi-purpose Discord bot created by Kaught and Suno.
+    <br />
+    <a href="https://github.com/LegacyKaught/Bravo-Bot/wiki"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://discord.gg/dtc">Join our Discord server</a>
+    ·
+    <a href="https://github.com/LegacyKaught/Bravo-Bot/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/LegacyKaught/Bravo-Bot/issues">Request a Feature</a>
+  </p>
 </p>
 
-# Bravo Bot
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
 
-Bravo is a multi-purpose and multi-use Discord bot created by Kaught and Suno. 
-
-[![Discord Server](https://img.shields.io/discord/824947961265184818?color=%23ff8c00&label=Discord%20Server&logo=discord&logoColor=%23ffffff)](https://discord.gg/dtc)
-[![GitHub issues](https://img.shields.io/github/issues/LegacyKaught/Bravo-Bot?color=%23ff8c00)](https://github.com/LegacyKaught/Bravo-Bot/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/LegacyKaught/Bravo-Bot?color=%23ff8c00)](https://github.com/LegacyKaught/Bravo-Bot/pulls)
-[![GitHub license](https://img.shields.io/github/license/LegacyKaught/Bravo-Bot?color=%23ff8c00)](https://github.com/LegacyKaught/Bravo-Bot/blob/main/LICENSE)
-
+<!-- FEATURES -->
 ## Features
+* Customizable prefix
+* Music player
+* Moderation commands
+* Fun commands
+* Utility commands
+* Leveling system
+* And much more!
 
-<details>
-  <summary>Click to expand!</summary>
-
-  * Moderation tools, including kick, ban, and mute commands.
-  * Fun commands, including memes, jokes, and GIFs.
-  * Music playback from YouTube, Spotify, and other sources.
-  * Customizable welcome and leave messages.
-  * Automatic role assignments based on server activity.
-  * And much more!
-</details>
-
+<!-- INSTALLATION -->
 ## Installation
+To invite the bot to your server, click [here](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot) and replace `YOUR_CLIENT_ID` with your bot's client ID.
 
-<details>
-  <summary>Click to expand!</summary>
+To run the bot locally, you will need to have [Node.js](https://nodejs.org/en/) installed. Clone the repository and install the required dependencies by running the following commands:
 
-  1. Clone the repository to your local machine using `git clone https://github.com/LegacyKaught/Bravo-Bot.git`
-  2. Install the necessary dependencies using `npm install`
-  3. Create a `.env` file in the root directory of the project and set the required environment variables (see `.env.example` for an example)
-  4. Start the bot using `npm start`
-</details>
-
-## Usage
-
-<details>
-  <summary>Click to expand!</summary>
-
-  * Use the `!help` command to see a list of available commands and their descriptions.
-  * Use the `!prefix <new prefix>` command to change the bot's command prefix for the server.
-  * Use the `!settings` command to see and modify the server's current settings.
-</details>
-
-## Contributing
-
-<details>
-  <summary>Click to expand!</summary>
-
-  We welcome contributions from the community! If you'd like to contribute to Bravo, please take a look at our [contribution guidelines](CONTRIBUTING.md) for more information.
-</details>
-
-## License
-
-<details>
-  <summary>Click to expand!</summary>
-
-  This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-</details>
+```sh
+git clone https://github.com/LegacyKaught/Bravo-Bot.git
+cd Bravo-Bot
+npm install
