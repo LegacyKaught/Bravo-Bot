@@ -1,7 +1,19 @@
-I want it like this but with the extra information I added:
+# Bravo Bot
+
+A multi-purpose and multi-use Discord bot created by Kaught#7962 and Suno#2182.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
 
 <details>
-<summary>Features</summary>
+<summary>Click to expand</summary>
 
 - Feature 1
 - Feature 2
@@ -9,8 +21,10 @@ I want it like this but with the extra information I added:
 
 </details>
 
+## Installation
+
 <details>
-<summary>Installation</summary>
+<summary>Click to expand</summary>
 
 To install this project, follow these steps:
 
@@ -20,8 +34,10 @@ To install this project, follow these steps:
 
 </details>
 
+## Usage
+
 <details>
-<summary>Usage</summary>
+<summary>Click to expand</summary>
 
 To use this project, follow these steps:
 
@@ -31,8 +47,10 @@ To use this project, follow these steps:
 
 </details>
 
+## Contributing
+
 <details>
-<summary>Contributing</summary>
+<summary>Click to expand</summary>
 
 If you would like to contribute to this project, please follow these steps:
 
@@ -44,8 +62,10 @@ If you would like to contribute to this project, please follow these steps:
 
 </details>
 
+## License
+
 <details>
-<summary>License</summary>
+<summary>Click to expand</summary>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
