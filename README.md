@@ -1,6 +1,6 @@
 # Bravo Discord Bot
 
-Bravo is a bot developed by Suno and <span style="color:blue">Kaught#7962</span> for their Discord server, which can be found at https://discord.gg/dtc.
+Bravo is a bot developed by **<span style="color: #7289da">Suno#2182</span>** and **<span style="color: #7289da">Kaught#7962</span>** for their Discord server, which can be found at https://discord.gg/dtc.
 
 <details>
 <summary>Features</summary>
@@ -52,5 +52,3 @@ If you would like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 </details>
-
-Developers: Suno#2182, <span style="color:blue">Kaught#7962</span>
