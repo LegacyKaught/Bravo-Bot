@@ -1,19 +1,9 @@
-# Bravo Bot
+# Bravo Discord Bot
 
-A multi-purpose and multi-use Discord bot created by Kaught#7962 and Suno#2182.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
+Bravo is a bot developed by Suno and Kaught for their Discord server, which can be found at https://discord.gg/dtc.
 
 <details>
-<summary>Click to expand</summary>
+<summary>Features</summary>
 
 - Feature 1
 - Feature 2
@@ -21,10 +11,8 @@ A multi-purpose and multi-use Discord bot created by Kaught#7962 and Suno#2182.
 
 </details>
 
-## Installation
-
 <details>
-<summary>Click to expand</summary>
+<summary>Installation</summary>
 
 To install this project, follow these steps:
 
@@ -34,10 +22,8 @@ To install this project, follow these steps:
 
 </details>
 
-## Usage
-
 <details>
-<summary>Click to expand</summary>
+<summary>Usage</summary>
 
 To use this project, follow these steps:
 
@@ -47,10 +33,8 @@ To use this project, follow these steps:
 
 </details>
 
-## Contributing
-
 <details>
-<summary>Click to expand</summary>
+<summary>Contributing</summary>
 
 If you would like to contribute to this project, please follow these steps:
 
@@ -62,11 +46,11 @@ If you would like to contribute to this project, please follow these steps:
 
 </details>
 
-## License
-
 <details>
-<summary>Click to expand</summary>
+<summary>License</summary>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 </details>
+
+Developers: Kaught#7962, Suno#2182
