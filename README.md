@@ -37,7 +37,7 @@
 <details>
 <summary><b>Installation</b></summary>
 
-To install this project, follow these steps:
+To install this project and run it yourself, follow these steps:
 
 1. Step 1
 2. Step 2
@@ -50,9 +50,11 @@ To install this project, follow these steps:
 
 To use this project, follow these steps:
 
-1. Step 1
-2. Step 2
-3. Step 3
+1. Clone the repository by running the following command in your terminal: 
+  git clone https://github.com/LegacyKaught/bravo.py
+2. Install the required dependencies by running the following command in the project directory:
+  pip install #
+3. Edit the .py file and change the Token = "token here" to your discord token
 
 </details>
 
