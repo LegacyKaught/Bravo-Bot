@@ -1,9 +1,18 @@
-# Bravo Discord Bot
+<h1 align="center">Bravo Discord Bot</h1>
 
-Bravo is a bot developed by **<span style="color: #7289da">Suno#2182</span>** and **<span style="color: #7289da">Kaught#7962</span>** for their Discord server, which can be found at https://discord.gg/dtc.
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+</p>
+
+<p align="center">
+  Bravo is a bot developed by <b><span style="color: #7289da">Suno#2182</span></b> and <b><span style="color: #7289da">Kaught#7962</span></b> for their Discord server, which can be found at https://discord.gg/dtc.
+</p>
+
+<br>
 
 <details>
-<summary>Features</summary>
+<summary><b>Features</b></summary>
 
 - Feature 1
 - Feature 2
@@ -12,7 +21,7 @@ Bravo is a bot developed by **<span style="color: #7289da">Suno#2182</span>** an
 </details>
 
 <details>
-<summary>Installation</summary>
+<summary><b>Installation</b></summary>
 
 To install this project, follow these steps:
 
@@ -23,7 +32,7 @@ To install this project, follow these steps:
 </details>
 
 <details>
-<summary>Usage</summary>
+<summary><b>Usage</b></summary>
 
 To use this project, follow these steps:
 
@@ -34,7 +43,7 @@ To use this project, follow these steps:
 </details>
 
 <details>
-<summary>Contributing</summary>
+<summary><b>Contributing</b></summary>
 
 If you would like to contribute to this project, please follow these steps:
 
@@ -47,8 +56,12 @@ If you would like to contribute to this project, please follow these steps:
 </details>
 
 <details>
-<summary>License</summary>
+<summary><b>License</b></summary>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 </details>
+
+<p align="center">
+  Made with :heart: by Suno and Kaught
+</p>
