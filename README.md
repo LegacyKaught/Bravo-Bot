@@ -56,6 +56,29 @@ If you would like to contribute to this project, please follow these steps:
 </details>
 
 <details>
+<summary><b>Feature Chart</b></summary>
+<br>
+  
+| Feature           | Description                                                  |
+|-------------------|--------------------------------------------------------------|
+| Auto Mod          | Automatically moderates messages and users in the server     |
+| Custom Commands   | Allows users to create custom commands and responses         |
+| Multiple Prefixes  | Supports multiple prefixes for commands                       |
+| Music             | Allows users to play music from YouTube or other sources      |
+| Reaction Roles    | Assigns roles to users when they react to a message            |
+| Customizable Role | Assigns a customizable role to users                          |
+| Chat Games        | Provides users with fun games to play in the chat              |
+| Reminder System   | Allows users to set reminders for themselves or others        |
+| Server Stats      | Provides stats on the server's activity and members            |
+| Leveling System   | Rewards users with experience points and levels               |
+| Polls             | Allows users to create and vote on polls                       |
+| Image Manipulation | Provides users with fun image manipulation commands            |
+| Voice Commands    | Allows users to control the bot with voice commands            |
+| User Profiles     | Provides users with personalized profiles and information      |
+
+</details>
+
+<details>
 <summary><b>License</b></summary>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
