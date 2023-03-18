@@ -1,57 +1,35 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/LegacyKaught"></a>
-  <br>
-  Bravo Discord Bot
-  <br>
-</h1>
+# Bravo-Bot
 
-<h4 align="center">A versatile Discord bot for all your needs</h4>
+![GitHub last commit](https://img.shields.io/github/last-commit/LegacyKaught/Bravo-Bot?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/LegacyKaught/Bravo-Bot?style=flat-square)
 
-<p align="center">
-  <a href="https://discord.gg/DTC">
-    <img src="https://img.shields.io/discord/your-discord-server-id?logo=discord&style=flat-square" alt="Bravo Official Server">
-  </a>
-  <a href="https://github.com/LegacyKaught/Bravo-Bot/releases">
-    <img src="https://img.shields.io/github/v/release/your-github-username/Bravo-discord-bot?include_prereleases&style=flat-square" alt="Release">
-  </a>
-  <a href="https://github.com/LegacyKaught/Bravo-Bot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/LegacyKaught/Bravo-Bot?style=flat-square" alt="License">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#commands">Commands</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
-
-## About
-
-Bravo Discord Bot is a multipurpose Discord bot that can be used for a variety of tasks. It's perfect for small and large servers alike, with a variety of features and commands to help your community thrive.
+A Discord bot for managing a gaming community, written in Python using the discord.py library.
 
 ## Features
 
-Here are some of the features that Bravo Discord Bot offers:
-
-- **Moderation:** Keep your server safe and clean with a variety of moderation tools, including kick, ban, and mute commands.
-- **Welcome Messages:** Greet new members with custom welcome messages and DMs.
-- **Leveling System:** Keep your members engaged and active with a leveling system that rewards activity.
-- **Music:** Listen to your favorite songs on Discord with Bravo's built-in music player.
-- **Games:** Play games like trivia, hangman, and more with your server members.
-- **And much more:** Bravo Discord Bot is constantly being updated with new features and commands to make your Discord experience even better.
+- Customizable prefix for commands
+- Commands for managing roles, channels, and server settings
+- Integration with the Steam API to display game stats for users
+- Custom commands for displaying user-defined messages
+- Command to generate random user teams for games
 
 ## Installation
 
-To install Bravo Discord Bot, follow these steps:
+1. Clone the repository: `git clone https://github.com/LegacyKaught/Bravo-Bot.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Create a `.env` file in the root directory of the project with the following information:
+4. Run the bot: `python main.py`
 
-1. Clone the repository: `git clone https://github.com/your-github-username/Bravo-discord-bot.git`
-2. Install the required packages: `pip install -r requirements.txt`
-3. Create a new Discord bot and get its token. You can follow [this tutorial](https://discordpy.readthedocs.io/en/latest/discord.html) for more information.
-4. Create a file called `.env` in the root directory of the project and add the following lines:
+## Usage
 
+After adding the bot to your server, use the command prefix followed by a command to interact with the bot. For example, if your command prefix is `!`, you can use `!help` to display a list of available commands.
+
+For more detailed usage instructions, refer to the [documentation](https://github.com/LegacyKaught/Bravo-Bot/wiki).
+
+## Contributing
+
+Contributions are welcome! To contribute, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
