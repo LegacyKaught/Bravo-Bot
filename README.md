@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/your-github-username"></a>
+  <a href="https://github.com/LegacyKaught"></a>
   <br>
   Bravo Discord Bot
   <br>
@@ -9,14 +9,14 @@
 <h4 align="center">A versatile Discord bot for all your needs</h4>
 
 <p align="center">
-  <a href="https://discord.gg/your-discord-server-invite-link">
-    <img src="https://img.shields.io/discord/your-discord-server-id?logo=discord&style=flat-square" alt="Discord Server">
+  <a href="https://discord.gg/DTC">
+    <img src="https://img.shields.io/discord/your-discord-server-id?logo=discord&style=flat-square" alt="Bravo Official Server">
   </a>
-  <a href="https://github.com/your-github-username/Bravo-discord-bot/releases">
+  <a href="https://github.com/LegacyKaught/Bravo-Bot/releases">
     <img src="https://img.shields.io/github/v/release/your-github-username/Bravo-discord-bot?include_prereleases&style=flat-square" alt="Release">
   </a>
-  <a href="https://github.com/your-github-username/Bravo-discord-bot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/your-github-username/Bravo-discord-bot?style=flat-square" alt="License">
+  <a href="https://github.com/LegacyKaught/Bravo-Bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/LegacyKaught/Bravo-Bot?style=flat-square" alt="License">
   </a>
 </p>
 
